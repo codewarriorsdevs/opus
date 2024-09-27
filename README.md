@@ -8,7 +8,7 @@
 
 <div align="center">
 <h1>Opus</h1>
-Documentação oficial do projeto "Opus", uma plataforma responsável por conectar candidatos a empresas e serviços da região de Pedro II - PI.
+Documentação oficial do projeto "Opus", uma plataforma responsável por conectar candidatos a empresas e servição de Pedro II - PI.
 <br></br>
 
 <a href="https://opusdoc.vercel.app"><strong>Explore the docs »</strong></a>
